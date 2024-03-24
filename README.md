@@ -1,18 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is collection NextJS components that can be used in a project.
 
-## Getting Started
+## Things to do
 
-First, run the development server:
+- Fix main menu
+- Table listing from a table
+- Drop down list
+- Environment secrets
+- Deploy to Netlify
+- Deploy to Vercel
+- Test for slow connections
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Things completed
+
+- DaisyUI and TailwindCSS
+-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

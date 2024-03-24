@@ -9,6 +9,7 @@ This is collection NextJS components that can be used in a project.
 - Deploy to Netlify
 - Deploy to Vercel
 - Test for slow connections
+- Add Voice input
 
 ## Things completed
 
